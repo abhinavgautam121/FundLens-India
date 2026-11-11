@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.env
+*.db
+*.db-*
+data/raw/*
+data/processed/*
+powerbi/exports/
+work/
+!data/raw/.gitkeep
+!data/processed/.gitkeep

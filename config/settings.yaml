@@ -1,0 +1,7 @@
+trading_days: 252
+calendar_days: 365.25
+minimum_peers: 3
+minimum_coverage: 0.90
+stale_after_calendar_days: 7
+minimum_rolling_observations: 252
+methodology_version: "1.0.0"

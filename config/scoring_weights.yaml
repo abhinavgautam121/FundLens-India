@@ -1,0 +1,22 @@
+# Illustrative educational weights; not an optimised investment strategy.
+default:
+  consistency: 0.35
+  risk: 0.25
+  benchmark: 0.25
+  recency: 0.15
+categories:
+  Equity:
+    consistency: 0.35
+    risk: 0.25
+    benchmark: 0.25
+    recency: 0.15
+  Hybrid:
+    consistency: 0.35
+    risk: 0.30
+    benchmark: 0.25
+    recency: 0.10
+  Debt:
+    consistency: 0.30
+    risk: 0.35
+    benchmark: 0.25
+    recency: 0.10
